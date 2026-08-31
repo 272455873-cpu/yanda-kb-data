@@ -1,0 +1,64 @@
+{
+  "销售技巧": [
+    {
+      "id": 5,
+      "title": "销售话术",
+      "desc": "高效沟通与成交技巧",
+      "url": "",
+      "pdfUrl": "的"
+    }
+  ],
+  "技术培训": [
+    {
+      "id": 6,
+      "title": "代码规范文档",
+      "desc": "团队编码规范与最佳实践",
+      "url": "https://alidocs.dingtalk.com/i/p/uuuuu"
+    }
+  ],
+  "备用1": [
+    {
+      "id": 3,
+      "title": "备用1",
+      "desc": "核心产品功能讲解",
+      "url": "",
+      "pdfUrl": "https://alidocs.dingtalk.com/i/p/zzzzz"
+    },
+    {
+      "id": 4,
+      "title": "竞品分析报告",
+      "desc": "市场竞品深度分析",
+      "url": "https://alidocs.dingtalk.com/i/p/wwwww"
+    }
+  ],
+  "运营知识的": [
+    {
+      "id": 7,
+      "title": "小红书玩法课程",
+      "desc": "小红书获客、内容生产与流量变现全流程课程",
+      "children": [
+        {
+          "id": 71,
+          "title": "Day1 · 小红书线上获客与流量变现",
+          "desc": "线上获客与流量变现全流程",
+          "url": "https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8apK55B3IzgpYoXbJgN7R35y",
+          "pdfUrl": "https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyeyooGRhGg3aQ4oWkyEqBQm"
+        },
+        {
+          "id": 72,
+          "title": "Day2 · 小红书爆款内容生产方法论",
+          "desc": "爆款内容生产方法论",
+          "url": "https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VGMm99bAIZMk6jOY86EDybno",
+          "pdfUrl": "https://alidocs.dingtalk.com/i/nodes/mExel2BLV5k6dd5ATpKroGm28gk9rpMq"
+        },
+        {
+          "id": 73,
+          "title": "Day3 · 小红书高阶运营法",
+          "desc": "高阶运营进阶方法",
+          "url": "https://alidocs.dingtalk.com/i/nodes/20eMKjyp81gedd6AcrmgAjMZVxAZB1Gv",
+          "pdfUrl": "https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJPax22eMHlqZN0zk8zN67Mw4"
+        }
+      ]
+    }
+  ]
+}
