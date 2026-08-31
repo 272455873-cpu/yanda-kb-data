@@ -49,7 +49,15 @@
       "id": 74,
       "title": "AI视频课",
       "desc": "",
-      "children": []
+      "children": [
+        {
+          "id": 75,
+          "title": "新课时",
+          "desc": "",
+          "url": "",
+          "pdfUrl": ""
+        }
+      ]
     }
   ]
 }
