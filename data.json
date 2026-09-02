@@ -119,7 +119,15 @@
       "id": 85,
       "title": "影视飓风Ai直播课",
       "desc": "",
-      "children": []
+      "children": [
+        {
+          "id": 86,
+          "title": "第一单元",
+          "desc": "",
+          "url": "",
+          "pdfUrl": ""
+        }
+      ]
     }
   ]
 }
