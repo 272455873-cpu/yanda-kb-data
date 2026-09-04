@@ -125,7 +125,17 @@
           "title": "第一单元",
           "desc": "",
           "url": "",
-          "pdfUrl": ""
+          "pdfUrl": "",
+          "videos": [
+            {
+              "title": "1.1",
+              "url": ""
+            },
+            {
+              "title": "1.2",
+              "url": ""
+            }
+          ]
         },
         {
           "id": 87,
